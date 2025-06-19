@@ -46,3 +46,4 @@ python training_loop.py
 Output
 Images saved in generated_images/ folder (e.g., 10.png, 20.png … 50.png) show rows of generated digits, one row per label class.
 
+
